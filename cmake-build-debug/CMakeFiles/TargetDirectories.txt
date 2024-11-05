@@ -1,3 +1,0 @@
-/Users/arielkriheli/Projects/x-processing-hacking/cmake-build-debug/CMakeFiles/x_processing_hacking.dir
-/Users/arielkriheli/Projects/x-processing-hacking/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/arielkriheli/Projects/x-processing-hacking/cmake-build-debug/CMakeFiles/rebuild_cache.dir
