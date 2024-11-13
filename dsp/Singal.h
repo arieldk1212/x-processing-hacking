@@ -1,0 +1,6 @@
+
+class Signal {
+public:
+private:
+
+}
