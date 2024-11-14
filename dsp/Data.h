@@ -16,4 +16,11 @@ private:
   double m_Imaginary;
 };
 
+// TODO: make data a ptr to data structure of complex numbers to store signals for fft.
+
+class Data {
+public:
+private:
+};
+
 #endif
