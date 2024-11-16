@@ -1,6 +1,8 @@
 #ifndef RECIEVER_H
 #define RECIEVER_H
 
+#include "../Power/Power.h"
+
 #include <iostream>
 #include <string>
 #include <unordered_map>
@@ -8,7 +10,7 @@
 typedef std::unordered_map<std::string, int> SatellitesMap;
 typedef std::vector<SatellitesMap *> Satellites;
 
-class Satellite {
+class Satellite : public Power {
 public:
   virtual ~Satellite() = 0;
 };
