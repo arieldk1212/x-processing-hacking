@@ -10,7 +10,7 @@ private:
 };
 
 class DSP {
-// TOOD: includes power and frequecny related together, Power, Frequency.
+  // TOOD: includes power and frequecny related together, Power, Frequency.
   // std::vector<m_Frequency> m_Frequencies;
 };
 
