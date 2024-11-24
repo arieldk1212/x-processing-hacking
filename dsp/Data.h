@@ -3,6 +3,10 @@
 
 #include <complex>
 
+struct Complex {
+
+};
+
 class ComplexNumber {
 public:
   ComplexNumber(double Real, double Imaginary)
